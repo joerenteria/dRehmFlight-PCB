@@ -1,2 +1,2 @@
-# Teensy-dRehmFlight
-PCB for Teensy and IMU with input/output pins
+# dRehmFlight/Teensy/IMU
+PCB for Teensy and IMU with receiver input pins and ESC/servo output pins.
