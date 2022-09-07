@@ -1,0 +1,7 @@
+Partlist exported from Team Hub: Joe Renteria   Project: VTOL  Board: PCB2 v31 at 8/24/22 10:10 PM
+
+Qty Value            Device           Package          Parts Description 
+1   GY-521MPU6050    GY-521MPU6050    GY-521           U1                
+1   PIN_3X10         PIN_3X10         PIN_3X10         U$3               
+1   PIN_3X7          PIN_3X7          PIN_3X7          U$2               
+1   TEENSY_4.0-BASIC TEENSY_4.0-BASIC TEENSY_4.0-BASIC U$1               
