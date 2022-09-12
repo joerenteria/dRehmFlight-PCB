@@ -1,0 +1,9 @@
+Partlist exported from Team Hub: Joe Renteria   Project: VTOL  Board: GitPCB v52 at 9/11/22 10:53 PM
+
+Qty Value         Device        Package   Parts                                                                                 Description POPULARITY
+16                PINHD-1X1     1X01      JP1, JP2, JP3, JP4, JP5, JP6, JP7, JP8, JP9, JP10, JP11, JP13, JP14, JP15, JP16, JP17 PIN HEADER  64        
+1   GY-521MPU6050 GY-521MPU6050 GY-521    U1                                                                                                          
+1   PIN_3X6       PIN_3X6       PIN_3X6   U$3                                                                                                         
+1   PIN_3X7       PIN_3X7       PIN_3X7   U$4                                                                                                         
+1   TEENSYGIT     TEENSYGIT     TEENSYGIT TY1                                                                                                         
+1   off           PINHD-1X1     1X01      JP12                                                                                  PIN HEADER  64        
