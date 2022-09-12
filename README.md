@@ -8,4 +8,4 @@ See file PCB.PNG for picture.
 
 Available for purchase.
 
-<img>
+<img/>
