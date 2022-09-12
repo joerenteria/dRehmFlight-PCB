@@ -7,3 +7,5 @@ Gerber and drill files for PCB for Teensy 4.0 and GY-521 IMU with receiver input
 See file PCB.PNG for picture.
 
 Available for purchase.
+
+![alt text](http://url/to/img.png)
