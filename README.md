@@ -8,4 +8,4 @@ See file PCB.PNG for picture.
 
 Available for purchase.
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/joerenteria/dRehmFlight-PCB/blob/main/PCB.PNG)
