@@ -4,7 +4,7 @@ Designed to run dRehmFlight, created by Nicholas Rehm: https://github.com/nickre
 
 Gerber and drill files for PCB for Teensy 4.0 and GY-521 IMU with receiver input pins and ESC/servo output pins.
 
-30mm x 71mm
+30mm x 72mm
 
 Available for purchase.
 
