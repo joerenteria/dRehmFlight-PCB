@@ -6,6 +6,6 @@ Gerber and drill files for PCB for Teensy 4.0 and GY-521 IMU with receiver input
 
 30mm x 72mm
 
-Available for purchase:  https://electronflight.com/dRehmFlightTeensyPCB.php
+Available for purchase:  https://electronflight.com/dRehmFlight-Teensy-Flight-Controller-PCB-Board.php
 
 ![dRehmFlight PCB](https://github.com/joerenteria/dRehmFlight-PCB/blob/main/PCB.PNG)
